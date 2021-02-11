@@ -7,5 +7,4 @@ public class student {
 		System.out.println("Hello world");
 
 	}
-
 }
